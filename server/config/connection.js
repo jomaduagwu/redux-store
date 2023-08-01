@@ -1,4 +1,4 @@
-jonwaconst mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
 // const  mongoURI  =  process.env.MONGODB_URI;
 mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://jomaduagwu:ekojonwa23@cluster0.g6xtvyl.mongodb.net/?retryWrites=true&w=majority', {
