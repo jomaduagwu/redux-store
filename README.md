@@ -20,7 +20,7 @@ Clone the respository from the repo in GitHub to your local machine. Make sure y
 
 This application allows a user to view items for sale, choose items by category, create an account and login/logout, and checkout items added to the cart.
 
-Link to deployed website - https://green-juice-898a0432b808.herokuapp.com/ 
+Link to deployed website - https://purple-rain-cfdb668d8c08.herokuapp.com/
 
 ![Redux Store screenshot](/assets/redux-store-scrnshot4.png)
 
