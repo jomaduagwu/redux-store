@@ -1,7 +1,7 @@
-const mongoose = require('mongoose');
+jonwaconst mongoose = require('mongoose');
 
 // const  mongoURI  =  process.env.MONGODB_URI;
-mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://jomaduagwu:webdev2023@cluster0.g6xtvyl.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://jomaduagwu:ekojonwa23@cluster0.g6xtvyl.mongodb.net/?retryWrites=true&w=majority', {
 // mongoose.connect(mongoURI,  {
     useNewUrlParser: true,
     useUnifiedTopology: true,
