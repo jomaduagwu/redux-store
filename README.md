@@ -7,6 +7,7 @@ Redux store is an e-commerce application built with MERN stack. It allows users 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [Credits](#credits)
 - [License](#license)
 
@@ -29,16 +30,6 @@ Link to deployed website - https://green-juice-898a0432b808.herokuapp.com/
 
 ![Redux Store screenshot](/assets/redux-store-scrnshot1.png)
 
-## Credits
-
-Starter code was from the Coding Bootcamp Activity 26.
-
-
-
-## License
-
-The project is licensed under MIT. For more information, please refer to the LICENSE in the repo.
-
 
 
 ## Features
@@ -52,4 +43,23 @@ Apollo Server
 JWT
 Stripe
 Redux
+
+
+
+## Credits
+
+Starter code was from the Coding Bootcamp Activity 26.
+
+
+
+## License
+
+The project is licensed under MIT. For more information, please refer to the LICENSE in the repo.
+
+
+## Contact
+
+You can contact me at - jomaduagwu@gmail.com
+
+Checkout my [GitHub Profile](https://github.com/jomaduagwu) 
 

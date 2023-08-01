@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route , Switch} from 'react-router-dom';
+import { BrowserRouter as Router, Route , Routes } from 'react-router-dom';
 import { Provider } from 'react-redux';
 
 
@@ -48,7 +48,7 @@ function App() {
         <div>
           <Provider store={store}>
             <Nav />
-            <Switch>
+            <Routes>
               <Route 
                 path="/" 
                 element={<Home />} 
@@ -77,7 +77,7 @@ function App() {
                 path="*" 
                 element={<NoMatch />} 
               />
-            </Switch>
+            </Routes>
           </Provider>
         </div>
       </Router>
