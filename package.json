@@ -15,5 +15,11 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "install": "^0.13.0",
+    "npm": "^9.8.1",
+    "redux": "^4.2.1"
   }
 }
